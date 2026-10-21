@@ -106,9 +106,7 @@ For reproducibility, preserve each calculation's input, associated output, molec
 
 ## Using and citing this repository
 
-This repository is intended as a **reference archive**, not as a replacement for the published articles and supporting information. When reporting calculations or benchmark comparisons, cite the relevant primary publications below, specify the repository commit or release used, and identify the actual computational settings. A versioned dataset DOI and `CITATION.cff` file can be added when a citable release is issued.
-
-**Reuse and redistribution:** A public data/software license has not been asserted in this README. Confirm the appropriate permissions, contributor attribution, and license terms before redistributing data or code. Institutional affiliation should be understood as research provenance, not official University of Calgary endorsement.
+This repository is intended as a **reference archive**, not as a replacement for the published articles and supporting information. When reporting calculations or benchmark comparisons, cite the relevant primary publications below, specify the repository commit or release used, and identify the actual computational settings.
 
 ## References
 
